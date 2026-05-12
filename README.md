@@ -1,2 +1,1 @@
-# VoteEase
-# VoteEase
+A simple Java-based Voting System developed using Java Swing for the graphical user interface. The project allows voter and candidate registration, secure vote casting, result management, and audit logging in a user-friendly environment. It demonstrates the use of object-oriented programming, data structures, event handling, and GUI development concepts in Java.
